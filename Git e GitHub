@@ -1,0 +1,44 @@
+Introdução ao Git e ao GitHub
+
+ - Listar pastas:
+
+	Windows: dir
+	Linux: ls
+
+ - Navegar entre pastas:
+ 
+	Windows, Linux: cd
+	
+		- cd *nome da pasta* para navegar para uma pasta específica;
+		- cd .. para retroceder um nível
+
+ - Para limpar o terminal:
+
+	Windows: cls 
+	Linux: clear (ctrl + l)
+ 
+ - Autocompletar:
+ 	
+ 	Windows, Linux: Tab
+ 	
+ - Criar pasta:
+ 	
+ 	Windows, Linux: mkdir *nome da pasta*
+ 
+ - Criar arquivo:
+ 	
+ 	Windows, Linux: echo *nome do arquivo* > *nome do arquivo e formato*
+ 	
+ - Deletar arquivos e diretórios:
+ 
+ 	Windows: del *nome do arquivo* (deleta apenas arquivos)
+ 	
+ 			rmdir *nome da pasta* /S /Q
+ 	
+ 	Linux: rm -rf *nome da pasta*
+ 
+ https://comandosgit.github.io/
+ 
+ https://gist.github.com/leocomelli/2545add34e4fec21ec16
+ 		
+

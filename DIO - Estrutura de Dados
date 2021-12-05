@@ -1,0 +1,81 @@
+DIO
+	
+	Estrutura de Dados e Algoritmos
+	
+
+O que é estrutura de dados:
+
+ - É uma estrutura organizada de dados na memória de um computador ou em qualquer dispositivo de armazenamento, de forma que os dados possam ser utilizados de forma correta.
+ - Essas estruturas econtram muitas aplicações, como banco de dados, serviço de busca ou tarefas específicas.
+ 
+ 	Algoritmos
+ 
+ - É um conjunto de instruções estruturadas e ordenadas, seu objetivo é realizar uma tarefa ou operação específica.
+ - São utilizadas para manipular dados nas estruturas de várias formas, como inserir, excluir, porcurar e ordenar dados.
+ 
+ - Principais estruturas de dados:
+ 	Vetores e Matrizes;
+ 	Registro;
+ 	Lista;
+ 	Pilha;
+ 	Fila;
+ 	Árvore;
+ 	Tabela Hash;
+ 	Grafos;
+ 	
+ 	
+ 	Vetores e Matrizes 
+ 
+ - São estruturas de dados simples que podem auxiliar quando há muitas variáveis do mesmo tipo em um agloritmo.
+ 
+ - Vetor é uma estrutura de dados indexada, que pode armazenar uma determinada quantidade de valores do mesmo tipo.
+ 
+ - Matriz é um vetor de vetores. É um vetor que possui duas ou mais dimensões.
+ 
+ 	Registro
+ 	
+ - Registro nos permite armazenar mais de um tipo de dado.
+ 
+ 	Listas
+ 	
+ - Armazena dados de um determinado tipo em uma ordem específica.
+ 
+ - A diferença entre lista e array é que as listas possuem tamanho ajustável, enquanto os arrays possuem tamanho fixo.
+ 
+ - Exsitem dois tipos de listas:
+ 	
+ - - Ligadas: 	nesse tipo de lista, existem os nós onde cada um dos nós conhece o valor que está sendo armazenado em seu interior além de conhecer o elemento posterior a ele: por isso é chamada de "lista ligada", pois os nós são amarrados com essa indicação de qual é o próximo nó.
+ 
+ - - Duplamente ligadas:	 constituem numa variação das listas ligadas. A diferença é que são bidirecionais. Nas listas duplamente ligadas, os nós sabem quem é o próximo elemento e também quem é o elemento anterior, o que permite a navegação reversa.
+ 
+ 
+ 	Pilhas (Stack)
+ 
+ - É uma estrutura de dados é restiro - somente um item pode ser lido ou removido por vez.
+ 
+ - - Tipos de pilhas (stacks)
+ 
+ 	- LIFO ou UEPS e FIFO OU PEPS
+ 	
+ - LIFO (Last In First Out): apresenta o seguinte critério: o primeiro elemento a ser retirado é o último que tiver sido inserido.
+ 
+ - FIFO (First In First Out): apresenta o seguinte critério: o primeiro elemento a ser retirado é o primeiro que tiver sido inserido.
+ 
+ 	Filas
+ 
+ - Essa estrutura admite a remoção de elementos e inserção de novos, sujeita à seguinte regra de operação: 
+ 	O elemento removido é o que está na estrutura há mais tempo, ou seja, o primeiro objeto inserido na fila é também o primeiro a ser removido, seguindo o conceito FIFO.
+ 	
+ 	Arvore
+ 	
+ - É uma estrutura de dados que organiza seus elementos de forma hierárquica, onde existe um elemento que fica no topo da árvore, chamado de raiz e existem os elementos subordinados a ele, que são chamados de nós ou folhas.
+ 
+ 	Tabela Hash
+ 	
+ - é uma generalização da ideia de array, porém utiliza uma função denominada Hashing para espalhar os elementos, fazendo com que os mesmos fiquem de forma não ordenada dentro do "array" que define a tabela.
+ 
+ 
+ 	Grafos
+ 
+ - são estruturas que permitem programar a relação entre objetos.
+
